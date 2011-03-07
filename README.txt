@@ -1,6 +1,6 @@
 This is intended as an example to be used in a lesson to simply (and safely) demonstrate a common way of 'hacking' into a website - SQL Injection ( http://en.wikipedia.org/wiki/SQL_injection )
 
-As you attempt to log in to the site
+As you attempt to log in to the site, it displays 'behind the scenes' information about the SQL query being run and the results generated.
 
 You need to host the file 'index.php' on a server (with PHP enabled).
 
